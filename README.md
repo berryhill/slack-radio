@@ -1,4 +1,4 @@
-# Slack Radio
+# Slack Radio API
 
 ## Development
 
@@ -10,7 +10,7 @@ Go 1.9.1
 $ go get github.com/berryhill/slack-radio-api
 ```
 
-### Install
+### Install & Run
 ```
 $ cd <go_path>/src/github/berryhill/slack-radio
 $ go get

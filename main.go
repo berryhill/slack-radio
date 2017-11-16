@@ -24,11 +24,12 @@ const redirectURI = "http://localhost:8080/callback"
 
 var html = `
 <br/>
-<a href="/player/play">Play</a><br/>
-<a href="/player/pause">Pause</a><br/>
-<a href="/player/next">Next track</a><br/>
-<a href="/player/previous">Previous Track</a><br/>
-<a href="/player/shuffle">Shuffle</a><br/>
+	<a href="/player/play">Play</a><br/>
+	<a href="/player/pause">Pause</a><br/>
+	<a href="/player/next">Next track</a><br/>
+	<a href="/player/previous">Previous Track</a><br/>
+	<a href="/player/shuffle">Shuffle</a>
+<br/>
 `
 
 var (
